@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CryptocurrencyApp.iml" filepath="$PROJECT_DIR$/.idea/modules/CryptocurrencyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CryptocurrencyApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/599338698/CryptocurrencyApp.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1954628941/CryptocurrencyApp.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1772716881/CryptocurrencyApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1772716881/CryptocurrencyApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2145894794/CryptocurrencyApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-115140082/CryptocurrencyApp.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/866215641/CryptocurrencyApp.react-native-splash-screen.unitTest.iml" />
+    </modules>
+  </component>
+</project>
